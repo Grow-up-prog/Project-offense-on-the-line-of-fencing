@@ -1,0 +1,2 @@
+# Project-offense-on-the-line-of-fencing
+alat ini dibuat untuk memenuhi tugas akhir mata kuliah olahraga rekreasi, dengan tujuan pembuatan alat ini adalah untuk memudahkan bila mana adanya pelanggaran yang dilakukan oleh atlit. jenis pelanggaran yang dideteksi adalah pelanggaran garis yang bila mana kaki dari atlit menyentuh batas garis maka sensor akan mendeteksi dan lampu indikator serta alarm akan menyala. terimakasih
